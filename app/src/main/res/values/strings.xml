@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSVTester</string>
+    <string name="coordFormat">Latitude %1$s Longitude %2$s</string>
+</resources>
